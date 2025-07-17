@@ -60,6 +60,7 @@ index.html – The HTML template loaded by React.
 
 # Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5a0b420b-f5cb-4fc0-92d8-a13a518ee324" />
 
 
  
